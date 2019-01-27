@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Gmail " parallel="false">
+    <test name = "Gmail BrokenLink Test">
+        <classes>
+            <class name="testPages.HomePage"/>
+        </classes>
+    </test>
+</suite>

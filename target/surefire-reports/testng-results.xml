@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Gmail " duration-ms="4030" started-at="2019-01-27T19:30:37Z" finished-at="2019-01-27T19:30:41Z">
+    <groups>
+    </groups>
+    <test name="Gmail BrokenLink Test" duration-ms="4030" started-at="2019-01-27T19:30:37Z" finished-at="2019-01-27T19:30:41Z">
+      <class name="testPages.HomePage">
+        <test-method status="PASS" signature="initializeTest()[pri:0, instance:testPages.HomePage@35d176f7]" name="initializeTest" is-config="true" duration-ms="2655" started-at="2019-01-27T19:30:37Z" finished-at="2019-01-27T19:30:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeTest -->
+        <test-method status="PASS" signature="findBrokenLinks()[pri:0, instance:testPages.HomePage@35d176f7]" name="findBrokenLinks" duration-ms="1285" started-at="2019-01-27T19:30:40Z" finished-at="2019-01-27T19:30:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findBrokenLinks -->
+        <test-method status="PASS" signature="tearDownTest()[pri:0, instance:testPages.HomePage@35d176f7]" name="tearDownTest" is-config="true" duration-ms="78" started-at="2019-01-27T19:30:41Z" finished-at="2019-01-27T19:30:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownTest -->
+      </class> <!-- testPages.HomePage -->
+    </test> <!-- Gmail BrokenLink Test -->
+  </suite> <!-- Gmail  -->
+</testng-results>
